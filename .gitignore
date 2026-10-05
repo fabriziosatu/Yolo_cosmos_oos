@@ -1,5 +1,6 @@
 # Modelli e pesi (file di grandi dimensioni)
 hf_models/
+weights/
 
 # Ambienti virtuali e variabili d'ambiente
 venv_cosmos_vllm/
